@@ -1,5 +1,5 @@
-## Hi there 👋 my name is Christian
-A passionate full-stack developer from Austria.
+## 👋 Greetings! I’m Christian
+Full-stack developer from Austria. I can fix your bugs but not your life...
 
 <p align="start"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christian-hoeller&" alt="christian-hoeller" /></p>
 
@@ -7,12 +7,12 @@ A passionate full-stack developer from Austria.
   <summary>Skills</summary>
 
   ### Skills:
-- C#
 - JavaScript/TypeScript
 - Node.js and express.js
 - React.js/Next.js/Angular.js
 - CSS/SASS/tailwindcss
 - SEO/Usability
+- C#
 
 ### Additional:
 - MySQL/document-based DBs
@@ -21,5 +21,4 @@ A passionate full-stack developer from Austria.
 - Github (...quite obviously)
 - Stripe
 </details>
- 
-_Ohh... and I use vim btw..._
+
